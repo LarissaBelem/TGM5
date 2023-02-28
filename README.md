@@ -4,12 +4,12 @@ Esse trabalho em grupo é um Crud simples aonde você pode adicionar, editar ou 
 
 Pessoas do grupo responsavéis pelo backend :
 
-Letícia Moretti
-Patryck Campos
-Maria Fernanda
+º Letícia Moretti
+º Patryck Campos
+º Maria Fernanda
 
 Pessoas do grupo responsavéis pelo frontend:
 
-Larissa Belem
-Léticia Moretti
-Daniel Dias
+º Larissa Belem
+º Léticia Moretti
+º Daniel Dias
